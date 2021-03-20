@@ -12,6 +12,8 @@
 
 ***4: Model Development***
 
+***Pipelines for these notebooks will be soon added***
+
 These notebooks are by no mean the most perfect, but if you find anything wrong or needed to be fixed
 email me : idreesqbal@gmail.com
 
