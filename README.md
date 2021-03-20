@@ -26,7 +26,7 @@ Author: idrees iqbal
 
 ```
 
-![becode-4.png](C:\Users\Idree\CompleteProjectAnalysis\becode-4.png)
+![becode-4.png](becode-4.png)
 
 
 ```python
