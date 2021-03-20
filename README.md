@@ -13,8 +13,20 @@
 ***4: Model Development***
 
 These notebooks are by no mean the most perfect, but if you find anything wrong or needed to be fixed
-email me : idreesqbal@gmail.comAuthor: idrees iqbal
-![download.jpg](attachment:download.jpg)# 
+email me : idreesqbal@gmail.com
+
+```python
+
+```
+
+Author: idrees iqbal
+
+
+```python
+
+```
+
+![becode-4.png](attachment:becode-4.png)
 
 
 ```python
